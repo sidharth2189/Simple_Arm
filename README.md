@@ -11,6 +11,7 @@ ROS project to demonstrate use of nodes, subscribers, publishers and services
  ## Dependencies
  1) Ubuntu 16.04 with ROS Kinetic
  2) Package to be cloned: https://github.com/udacity/simple_arm_01
+ 
  git clone https://github.com/udacity/simple_arm_01.git simple_arm
  
  ## Reference
