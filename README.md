@@ -7,3 +7,6 @@ ROS project to demonstrate use of nodes, subscribers, publishers and services
  
  3.look_away node subscribes to a topic where camera data is being published.
  When the camera detects an image with uniform color, meaning it’s looking at the sky, the node will call the safe_move service to move the arm to a new position.
+ 
+ ## Dependencies
+ Ubuntu 16.04 with ROS Kinetic
