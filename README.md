@@ -1,4 +1,4 @@
-# Simple_Arm
+# Simple Arm
 ROS project to demonstrate use of nodes, subscribers, publishers and services
 
  1.simple_mover node publishes joint angle commands to simple_arm
